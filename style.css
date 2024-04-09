@@ -106,6 +106,7 @@ body {
 }
 
 .description {
+    color: white;
     margin: 150px 100px 0px 0px;
     width: 40%;
     display: flex;
@@ -116,6 +117,7 @@ body {
 }
 
 .descriptionul {
+    color: white;
     padding-top: 10px;
 }
 
